@@ -1,0 +1,8 @@
+{
+  "name": "DevFest Singapore 2026",
+  "description": "Official DevFest Singapore 2026 commemorative gear, exclusive tech community apparel, collectible pins, and Luma pre-order showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
